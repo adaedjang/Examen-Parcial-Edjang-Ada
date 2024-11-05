@@ -1,16 +1,7 @@
-//
-// Created by 34601 on 05/11/2024.
-//
-
 #ifndef CALIFICACIONES_H
 #define CALIFICACIONES_H
 
+float calcularPromedio(float calificaciones[], int cantidad);
 
+#endif
 
-class calificaciones {
-
-};
-
-
-
-#endif //CALIFICACIONES_H

@@ -4,7 +4,6 @@
 #ifndef DIA_H
 #define DIA_H
 
-// Declaración de la función
 void imprimirDiaSemana(int numero);
 
 #endif
