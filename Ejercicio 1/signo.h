@@ -1,16 +1,8 @@
-//
-// Created by 34601 on 05/11/2024.
-//
-
 #ifndef SIGNO_H
 #define SIGNO_H
 
 
+void verificarSigno(int);
 
-class signo {
+#endif
 
-};
-
-
-
-#endif //SIGNO_H
